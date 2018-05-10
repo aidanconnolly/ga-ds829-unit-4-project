@@ -16,7 +16,7 @@
    
 > Frame your problem, criteria, and data source(s)
 
-Describe your chosen problem and state whether you have access to relevant data. If you get stuck, [see this list of curated datasets](./datasets.md).
+Describe your chosen problem and state whether you have access to relevant data. If you get stuck, [see this list of curated datasets](./suggestions.md).
 
 #### Requirements
 1. Draft a well-formed problem statement relevant to a business problem affecting your team, division, or organization.
