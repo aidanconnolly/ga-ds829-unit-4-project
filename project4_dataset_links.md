@@ -51,8 +51,9 @@ mbb_pbp = pd.read_parquet('https://github.com/sportsdataverse/hoopR-data/blob/ma
 mbb_pbp.head()
 ```
 
-Keep in mind that the data files, while cleaned up by the scraping process, still require a great deal of cleaning for analysis.  There are a few python-related tutorials on the NFL data.
 
 ### Other Sports
 
 [PySport](https://opensource.pysport.org/) keeps a list of various sports packages to use to scrape/get data as well including Soccer, Hockey, Baseball, and more.  Code and packages are updated frequently so there may be different ways of getting data than what was demonstrated above.
+
+Keep in mind that the data scraped, while cleaned up by the scraping process, still require a great deal of cleaning for analysis.  There are a few python-related tutorials on the NFL data.
