@@ -11,8 +11,6 @@
 | Requirements | Final project deliverable descriptions | [Here](./requirements.md) |
 | Sample Topics | Curated project dataset suggestions  | [Here](./suggestions.md) |
 
-> Note: Due to variability in student project selection, sample solutions are not provided. However, you can find a wide range of prior project examples in our [GA Gallery](https://gallery.generalassemb.ly/DS?metro=).
-
 ---
 
 ## Project Objective(s)
