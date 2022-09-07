@@ -35,16 +35,16 @@ You will get structured guidance and designated time to work throughout the cour
 
 ---
 
-## (Suggested) Project Schedule
+### Project Schedule
 
-- Project 1: Due @ End of Unit 1
-- Project 2: Due @ End of Unit 2
-- Project 3: Due @ End of Unit 3
+- Project 1: Monday, September 19, 2022
+- Project 2: Monday, October 3, 2022
+- Project 3: Monday, October 17, 2022
 - Project 4 (Final):
-    - Proposal + Dataset: Due @ End of Unit 2
-    - Initial EDA Brief: Due @ End of Unit 3
-    - Technical Report: Due @ End of Unit 4
-    - Presentation: Due @ End of Unit 4
+    - Proposal + Dataset: Wednesday, September 21, 2022
+    - Initial EDA Brief: Wedenesday, October 12, 2022
+    - Technical Report: Monday, November 7, 2022
+    - Presentation: Monday, November 7, 2022
 
 ---
 
