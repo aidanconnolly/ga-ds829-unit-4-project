@@ -92,7 +92,7 @@ From Kaggle:
 - What factors most explain on-time loan repayments?
 - As a bank, what evaluation metric would you opt for to determine if a given load should be given? As a consumer, what evaluation metric would you opt for to determine if a given loan should be given? How does this affect your model's performance?
 
-[Download Here](https://www.kaggle.com/wendykan/lending-club-loan-data)
+[Download Here](https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv)
 
 ---
 
