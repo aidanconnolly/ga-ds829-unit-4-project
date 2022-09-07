@@ -157,7 +157,7 @@ Natural language processing is taught relatively late in our curriculum. Thus, t
 
 > This is a great example of data you should use to continue practicing your new skill set beyond this course.
 
-[Download Here](http://www.trumptwitterarchive.com/archive)
+[Download Here](https://www.thetrumparchive.com/)
 
 ---
 
