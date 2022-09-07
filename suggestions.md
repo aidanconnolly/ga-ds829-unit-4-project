@@ -74,7 +74,7 @@ Instacart open-sourced 3 million orders from its databases. We recommend you rea
 
 > Note: This data set is quite large, and taking a random 10-percent sample (with justification) is acceptable.
 
-[Download Here](https://www.instacart.com/datasets/grocery-shopping-2017)
+[Download Here](https://www.kaggle.com/competitions/instacart-market-basket-analysis/overview)
 
 [Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
 
